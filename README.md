@@ -1,9 +1,6 @@
-<img src="https://github.com/guastallaigor/guastallaigor/raw/master/megaman.gif">
+<img src="https://github.com/guastallaigor/guastallaigor/raw/master/megaman.gif" width="128px">
 
 ### Hi there 👋
-
-<!--
-**guastallaigor/guastallaigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@guastallaigor](https://twitter.com/guastallaigor)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: In my free time I play some guitar, piano and Dota 2
--->
