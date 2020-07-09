@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on a private projects, primary using Nuxt.js and Tailwind CSS
+- 🔭 I’m currently working on private projects, primary using Nuxt.js and Tailwind CSS
 - 🌱 I’m currently learning React with Typescript
 - 👯 I’m looking to collaborate right now on Vue.js / Nuxt.js projects, or any CSS related
 - 💬 Ask me about anything
