@@ -3,7 +3,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on private projects, primary using Nuxt.js with Tailwind CSS, or Gatsby
-- 🌱 I’m currently learning React with Typescript
 - 👯 I’m looking to collaborate right now on Vue.js / Nuxt.js projects, or any CSS related that I'm interested in
 - 💬 Ask me about anything
 - 📫 How to reach me: [@guastallaigor](https://twitter.com/guastallaigor)
