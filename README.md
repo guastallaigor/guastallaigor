@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on private projects, primary using Nuxt.js with Tailwind CSS, or Gatsby
+- 🔭 I’m currently working on private projects, primary using Vue.js / Nuxt.js or Next.js
 - 📫 How to reach me: [@guastallaigor](https://twitter.com/guastallaigor)
 
 [![Blog Badge](https://img.shields.io/badge/blog-guastallaigor-orange)](https://guastallaigor.netlify.app)
